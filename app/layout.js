@@ -1,6 +1,6 @@
 export const metadata = {
   title: "YOU GOT PWNED — UNPWNED Demo Target",
-  description: "A deliberately vulnerable demo site. Scan it with UNPWNED to see what AI-powered security scanning finds.",
+  description: "A deliberately vulnerable demo site. Scan it with UNPWNED to see what a security scan finds.",
   openGraph: {
     title: "YOU GOT PWNED — UNPWNED Demo Target",
     description: "This site is intentionally vulnerable. Scan it with UNPWNED to see real security findings.",

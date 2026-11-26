@@ -283,7 +283,7 @@ NEXT_PUBLIC_API_SECRET = "${API_SECRET}"`}
             fontFamily: "system-ui, sans-serif",
             marginBottom: 24,
           }}>
-            Scan your site for free with UNPWNED — AI-powered security in 60 seconds
+            Scan your own site with UNPWNED. A security check takes a couple of minutes.
           </p>
           <a
             href="https://www.unpwned.io?utm_source=demo&utm_medium=demo_site&utm_campaign=demo_target"
